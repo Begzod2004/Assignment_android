@@ -1,4 +1,4 @@
-# Flutter E-Commerce App Template
+# Fluttersa Mobile Ilova 
 
 Mening ismim bekzod va bu mening flutterda qilgan birinchi projectim yani online shop bu project yordamida siz juda kop narsalar qilsangiz boladi masalan siz buyerda istalgan ozoingizga kerak bolgan narsani sotib olishingizham munkun va bu juda ajoyib mobile ilova deb oylayman.
 
