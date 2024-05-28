@@ -32,7 +32,7 @@ Mening ismim bekzod va bu mening flutterda qilgan birinchi projectim yani online
 
 => Bottom Navigation Bar (added)
 
-Now it contains all the screen, thanks for your love and support 🙏 
+Endi u barcha ekranni o'z ichiga oladi, ishonch va qo'llab-quvvatlaganingiz uchun rahmat
 
 ## Photos
 ![Preview](/1.png)
