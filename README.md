@@ -2,7 +2,6 @@
 
 Mening ismim bekzod va bu mening flutterda qilgan birinchi projectim yani online shop bu project yordamida siz juda kop narsalar qilsangiz boladi masalan siz buyerda istalgan ozoingizga kerak bolgan narsani sotib olishingizham munkun va bu juda ajoyib mobile ilova deb oylayman.
 
-Visit FlutterLibrary.com to Download the [Flutter e-commerce app template](https://www.flutterlibrary.com/templates/e-commerce-app) & other templates, and components.
 
 
 ### Mobile Ilovam haqida Video Preview
